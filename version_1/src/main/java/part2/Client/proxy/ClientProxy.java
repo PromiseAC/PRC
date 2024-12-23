@@ -1,8 +1,8 @@
-package part1.Client.proxy;
+package part2.Client.proxy;
 
 import lombok.AllArgsConstructor;
-import part1.common.Message.RpcRequest;
-import part1.common.Message.RpcResponse;
+import part2.common.Message.RpcRequest;
+import part2.common.Message.RpcResponse;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
